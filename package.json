@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Nathan-Birindwa/Thread-Clone-Server#readme",
   "devDependencies": {
+    "@types/bcrypt": "^5.0.2",
     "@types/express": "^5.0.0",
     "@types/node": "^22.13.1",
     "@types/pg": "^8.11.11",
