@@ -20,6 +20,7 @@
   "homepage": "https://github.com/Nathan-Birindwa/Thread-Clone-Server#readme",
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
+    "@types/connect-pg-simple": "^7.0.3",
     "@types/express": "^5.0.0",
     "@types/express-session": "^1.18.1",
     "@types/node": "^22.13.1",
